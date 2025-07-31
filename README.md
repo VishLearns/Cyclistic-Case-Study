@@ -71,9 +71,9 @@ Explore the interactive Tableau dashboards covering:
 
 ## 📁 External Resources
 
-- 📊 Tableau Dashboard: [View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
-- 📂 Kaggle Raw Dataset: [Raw + Cleaned Dataset](https://www.kaggle.com/datasets/vishvamshastri/cyclistic-combined-data)
-- 📂 Kaggle Cleaned Dataset: [Raw + Cleaned Dataset](https://www.kaggle.com/datasets/vishvamshastri/cyclistic-cleaned-data)
+- 📊 Tableau Dashboard: [View on Tableau Public](https://public.tableau.com/views/CyclisticCaseStudy-Dashboards_17539835738800/Dashboard1-RideCounts-Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- 📂 Kaggle Raw Dataset: [Raw Dataset](https://www.kaggle.com/datasets/vishvamshastri/cyclistic-combined-data)
+- 📂 Kaggle Cleaned Dataset: [Cleaned Dataset](https://www.kaggle.com/datasets/vishvamshastri/cyclistic-cleaned-data)
 
 
 ---
