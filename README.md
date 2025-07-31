@@ -79,7 +79,6 @@ Explore the interactive Tableau dashboards covering:
 
 ## 📬 Contact
 
-If you'd like to discuss this project or collaborate, feel free to connect via LinkedIn or reach out directly.  
-[LinkedIn](https://www.linkedin.com/in/vishvam-shastri-604533363/)
+If you'd like to discuss this project or collaborate, feel free to connect via [LinkedIn](https://www.linkedin.com/in/vishvam-shastri-604533363/) or reach out directly.  
 
 ---
