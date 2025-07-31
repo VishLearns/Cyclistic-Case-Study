@@ -56,7 +56,7 @@ Explore the interactive Tableau dashboards covering:
 - Spatial patterns  
 - Power casual identification  
 
-🔗 **[View Tableau Public Dashboard](#)**(https://public.tableau.com/views/CyclisticCaseStudy-Dashboards_17539835738800/Dashboard1-RideCounts-Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [View Tableau Public Dashboard](https://public.tableau.com/views/CyclisticCaseStudy-Dashboards_17539835738800/Dashboard1-RideCounts-Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
