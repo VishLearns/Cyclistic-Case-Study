@@ -69,18 +69,12 @@ Explore the interactive Tableau dashboards covering:
 
 ---
 
-## 📌 Folder Structure
+## 📁 External Resources
 
-cyclistic-case-study/
-├── data/
-│ └── [Raw CSVs or summary files]
-├── scripts/
-│ ├── cleaning_log.Rmd
-│ └── analysis_visuals.Rmd
-├── visualizations/
-│ └── tableau_dashboard_screenshots/
-├── README.md
-└── LICENSE
+- 📊 Tableau Dashboard: [View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
+- 📂 Kaggle Dataset: [Raw + Cleaned Dataset](YOUR_KAGGLE_LINK)
+
+---
 
 ## 📬 Contact
 
