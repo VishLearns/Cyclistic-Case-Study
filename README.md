@@ -72,7 +72,9 @@ Explore the interactive Tableau dashboards covering:
 ## 📁 External Resources
 
 - 📊 Tableau Dashboard: [View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
-- 📂 Kaggle Dataset: [Raw + Cleaned Dataset](YOUR_KAGGLE_LINK)
+- 📂 Kaggle Raw Dataset: [Raw + Cleaned Dataset](https://www.kaggle.com/datasets/vishvamshastri/cyclistic-combined-data)
+- 📂 Kaggle Cleaned Dataset: [Raw + Cleaned Dataset](https://www.kaggle.com/datasets/vishvamshastri/cyclistic-cleaned-data)
+
 
 ---
 
